@@ -1,5 +1,7 @@
 # FAQ Accordion
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-faq-accordion-block/releases/latest/download/faq-accordion-block.zip)**
+
 Collapsible FAQ accordions via shortcode that automatically output **FAQPage
 schema** for Google rich results. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
